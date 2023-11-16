@@ -24,7 +24,7 @@ Comments:<br>
   Weak Points:<br>
   
 # Example of Additional Information section output 
-- meta-analysis
+**meta-analysis**<br>
   -Input Example: https://doi.org/10.1002/hep.23623
   
 Additional Information for Meta-Analysis:<br>
@@ -47,7 +47,7 @@ Additional Information for Meta-Analysis:<br>
   - Heterogeneity Assessment: I2 statistic and random-effects or fixed-effects models were used.<br>
   - Sub-Analysis/Sensitivity Analysis: Planned a priori for various criteria including NASH vs. NAFLD population, diabetic vs. nondiabetic population, treatment duration, and different drugs or doses.<br>
 
-- RCT
+**RCT** <br>
   - Input Example: https://doi.org/10.1002/art.40493
 
 Other Information <br>
