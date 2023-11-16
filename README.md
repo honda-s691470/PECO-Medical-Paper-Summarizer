@@ -25,9 +25,8 @@ Comments:<br>
   
 # Example of Additional Information section output 
 **meta-analysis**<br>
-  -Input Example: https://doi.org/10.1002/hep.23623
-  
-Additional Information for Meta-Analysis:<br>
+  Input Example: https://doi.org/10.1002/hep.23623
+
 1. Comprehensive Study Collection:<br>
   - Databases Searched: MEDLINE, Ovid MEDLINE In-Process, Cochrane CENTRAL Register of Controlled Trials, Cochrane Database of Systematic Reviews, 
   - Excerpta Medica Database, PubMed, clinicaltrials.gov, and various association meeting abstracts.<br>
@@ -48,9 +47,8 @@ Additional Information for Meta-Analysis:<br>
   - Sub-Analysis/Sensitivity Analysis: Planned a priori for various criteria including NASH vs. NAFLD population, diabetic vs. nondiabetic population, treatment duration, and different drugs or doses.<br>
 
 **RCT** <br>
-  - Input Example: https://doi.org/10.1002/art.40493
+  Input Example: https://doi.org/10.1002/art.40493
 
-Other Information <br>
   - Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.<br>
   - Intention to Treat Analysis: The study followed an intent-to-treat approach.<br>
   - Drop-out Rates and Sample Sizes: Among 718 patients enrolled, 296 were randomized (147 to TCZ monotherapy and 147 to TCZ plus MTX). Drop-out rates were 12.2% for TCZ monotherapy and 10.2% for TCZ plus MTX.
