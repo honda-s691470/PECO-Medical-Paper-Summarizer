@@ -50,7 +50,7 @@ Additional Information for Meta-Analysis:<br>
 - RCT
   - Input Example: https://doi.org/10.1002/art.40493
 
-Other Information<br>
-  - Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.
-  - Intention to Treat Analysis: The study followed an intent-to-treat approach.
+Other Information <br>
+  - Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.<br>
+  - Intention to Treat Analysis: The study followed an intent-to-treat approach.<br>
   - Drop-out Rates and Sample Sizes: Among 718 patients enrolled, 296 were randomized (147 to TCZ monotherapy and 147 to TCZ plus MTX). Drop-out rates were 12.2% for TCZ monotherapy and 10.2% for TCZ plus MTX.
