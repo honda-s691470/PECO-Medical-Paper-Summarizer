@@ -23,7 +23,7 @@ Comments:<br>
   Strong Points: <br>
   Weak Points:<br>
   
-# Output by study design
+# Example of Additional Information section output 
 - meta-analysis
   -Input Example: https://doi.org/10.1002/hep.23623
   
