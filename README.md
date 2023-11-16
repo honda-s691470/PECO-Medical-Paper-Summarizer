@@ -33,15 +33,12 @@ Search Terms: Included NASH, NAFLD, nonalcoholic steatohepatitis, fatty liver, l
 Period Covered: Up to January 2010.<br>
 Study Types Examined: Randomized controlled trials.<br>
 Researcher Contact: Ten authors were contacted to verify results and methodological quality.<br>
-<br>
 2. Study Collection Comprehensiveness:<br>
 Number of Studies: 49 RCTs.<br>
 Publication Bias Assessment: Funnel plots were used to assess publication bias.<br>
-<br>
 3. Risk of Bias Assessment:<br>
 Multiple Evaluators: Yes, data extracted by two authors independently, with kappa coefficient for agreement.<br>
 Assessment Criteria: Cochrane Risk of Bias Tool.<br>
-
 4. Assessment of Results:<br>
 Types and Number of Studies: 49 RCTs, including 23 with post-treatment histology (22 in NASH, 1 in NAFLD).<br>
 Significant Differences and Integrated Results: Specific results not detailed in the quoted sections.<br>
