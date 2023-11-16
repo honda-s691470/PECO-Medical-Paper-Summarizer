@@ -46,3 +46,11 @@ Additional Information for Meta-Analysis:<br>
   - Significant Differences and Integrated Results: Specific results not detailed in the quoted sections.<br>
   - Heterogeneity Assessment: I2 statistic and random-effects or fixed-effects models were used.<br>
   - Sub-Analysis/Sensitivity Analysis: Planned a priori for various criteria including NASH vs. NAFLD population, diabetic vs. nondiabetic population, treatment duration, and different drugs or doses.<br>
+
+- RCT
+  - Input Example: https://doi.org/10.1002/art.40493
+
+Other Information<br>
+ - Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.
+ - Intention to Treat Analysis: The study followed an intent-to-treat approach.
+ - Drop-out Rates and Sample Sizes: Among 718 patients enrolled, 296 were randomized (147 to TCZ monotherapy and 147 to TCZ plus MTX). Drop-out rates were 12.2% for TCZ monotherapy and 10.2% for TCZ plus MTX.
