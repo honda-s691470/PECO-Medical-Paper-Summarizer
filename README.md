@@ -1,6 +1,6 @@
 # PECO-Medical-Paper-Summarizer
 Friendly clinical medical study summarizer in PECO (Patients, Exposure, Comparison, Outcome) plus alpha format. <br>
-[PECO-Summarizer](https://chat.openai.com/g/g-3Ylvxx5GH-peco-summarizer)
+[PECO-Medical-Paper-Summarizer](https://chat.openai.com/g/g-3Ylvxx5GH-peco-summarizer)
 
 # Supported Study Designs
 meta-analysis, randomized controlled trials, cross-sectional studies, cohort studies, and case-control studies. 
