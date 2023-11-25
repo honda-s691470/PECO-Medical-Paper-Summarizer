@@ -28,12 +28,12 @@ Comments:<br>
   Input Example: https://doi.org/10.1002/hep.23623
 
 1. Comprehensive Study Collection:<br>
-  - Databases Searched: MEDLINE, Ovid MEDLINE In-Process, Cochrane CENTRAL Register of Controlled Trials, Cochrane Database of Systematic Reviews, 
-  - Excerpta Medica Database, PubMed, clinicaltrials.gov, and various association meeting abstracts.<br>
-  - Search Terms: Included NASH, NAFLD, nonalcoholic steatohepatitis, fatty liver, liver enzymes, and related terms.<br>
-  - Period Covered: Up to January 2010.<br>
-  - Study Types Examined: Randomized controlled trials.<br>
-  - Researcher Contact: Ten authors were contacted to verify results and methodological quality.<br>
+  Databases Searched: MEDLINE, Ovid MEDLINE In-Process, Cochrane CENTRAL Register of Controlled Trials, Cochrane Database of Systematic Reviews, 
+  Excerpta Medica Database, PubMed, clinicaltrials.gov, and various association meeting abstracts.<br>
+  Search Terms: Included NASH, NAFLD, nonalcoholic steatohepatitis, fatty liver, liver enzymes, and related terms.<br>
+  Period Covered: Up to January 2010.<br>
+  Study Types Examined: Randomized controlled trials.<br>
+  Researcher Contact: Ten authors were contacted to verify results and methodological quality.<br>
 2. Study Collection Comprehensiveness:<br>
   - Number of Studies: 49 RCTs.<br>
   - Publication Bias Assessment: Funnel plots were used to assess publication bias.<br>
