@@ -35,20 +35,20 @@ Comments:<br>
   Study Types Examined: Randomized controlled trials.<br>
   Researcher Contact: Ten authors were contacted to verify results and methodological quality.<br>
 2. Study Collection Comprehensiveness:<br>
-  - Number of Studies: 49 RCTs.<br>
-  - Publication Bias Assessment: Funnel plots were used to assess publication bias.<br>
+  Number of Studies: 49 RCTs.<br>
+  Publication Bias Assessment: Funnel plots were used to assess publication bias.<br>
 3. Risk of Bias Assessment:<br>
-  - Multiple Evaluators: Yes, data extracted by two authors independently, with kappa coefficient for agreement.<br>
-  - Assessment Criteria: Cochrane Risk of Bias Tool.<br>
+  Multiple Evaluators: Yes, data extracted by two authors independently, with kappa coefficient for agreement.<br>
+  Assessment Criteria: Cochrane Risk of Bias Tool.<br>
 4. Assessment of Results:<br>
-  - Types and Number of Studies: 49 RCTs, including 23 with post-treatment histology (22 in NASH, 1 in NAFLD).<br>
-  - Significant Differences and Integrated Results: Specific results not detailed in the quoted sections.<br>
-  - Heterogeneity Assessment: I2 statistic and random-effects or fixed-effects models were used.<br>
-  - Sub-Analysis/Sensitivity Analysis: Planned a priori for various criteria including NASH vs. NAFLD population, diabetic vs. nondiabetic population, treatment duration, and different drugs or doses.<br>
+  Types and Number of Studies: 49 RCTs, including 23 with post-treatment histology (22 in NASH, 1 in NAFLD).<br>
+  Significant Differences and Integrated Results: Specific results not detailed in the quoted sections.<br>
+  Heterogeneity Assessment: I2 statistic and random-effects or fixed-effects models were used.<br>
+  Sub-Analysis/Sensitivity Analysis: Planned a priori for various criteria including NASH vs. NAFLD population, diabetic vs. nondiabetic population, treatment duration, and different drugs or doses.<br>
 
 **RCT** <br>
   Input Example: https://doi.org/10.1002/art.40493
 
-  - Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.<br>
-  - Intention to Treat Analysis: The study followed an intent-to-treat approach.<br>
-  - Drop-out Rates and Sample Sizes: Among 718 patients enrolled, 296 were randomized (147 to TCZ monotherapy and 147 to TCZ plus MTX). Drop-out rates were 12.2% for TCZ monotherapy and 10.2% for TCZ plus MTX.
+  Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.<br>
+  Intention to Treat Analysis: The study followed an intent-to-treat approach.<br>
+  Drop-out Rates and Sample Sizes: Among 718 patients enrolled, 296 were randomized (147 to TCZ monotherapy and 147 to TCZ plus MTX). Drop-out rates were 12.2% for TCZ monotherapy and 10.2% for TCZ plus MTX.
