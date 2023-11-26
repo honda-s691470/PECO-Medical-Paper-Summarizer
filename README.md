@@ -52,3 +52,13 @@ Comments:<br>
   Baseline Characteristics Equivalence: Baseline characteristics, including RA duration, tender joint count, and DAS28-ESR, were comparable between both groups.<br>
   Intention to Treat Analysis: The study followed an intent-to-treat approach.<br>
   Drop-out Rates and Sample Sizes: Among 718 patients enrolled, 296 were randomized (147 to TCZ monotherapy and 147 to TCZ plus MTX). Drop-out rates were 12.2% for TCZ monotherapy and 10.2% for TCZ plus MTX.
+
+**Cross-Sectional Study** <br>
+  Input Example: https://doi.org/10.1002/clc.23976
+  
+  Patients Inclusion/Exclusion criteria: Excluded participants under 18 years and those with missing data on HF status.<br>
+  Sample sizes: Total of 28,764 participants after exclusions.<br>
+  Measures taken to avoid bias: Utilization of a nationally representative sample, multivariate logistic regression models for adjustments.<br>
+  Methods of adjustment for confounders: Adjusted for age, sex, race, hypertension, diabetes mellitus, smoking, alcohol consumption, coronary heart disease, kidney disease, liver disease, eGFR, systolic blood pressure, diastolic blood pressure, serum uric acid, albumin,   hemoglobin, hematocrit, and neutrophil-lymphocyte ratio.<br>
+  How to deal with missing data: Participants with missing HF data were excluded.<br>
+  Methods of sensitivity analysis: Performed for different subgroups, including sex, age, race, smoking status, hypertension, diabetes, coronary heart disease, liver disease, serum uric acid, and eGFR.<br>
