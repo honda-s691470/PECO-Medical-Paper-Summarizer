@@ -63,3 +63,12 @@ Comments:<br>
   Methods of adjustment for confounders: Adjusted for age, sex, race, hypertension, diabetes mellitus, smoking, alcohol consumption, coronary heart disease, kidney disease, liver disease, eGFR, systolic blood pressure, diastolic blood pressure, serum uric acid, albumin,   hemoglobin, hematocrit, and neutrophil-lymphocyte ratio.<br>
   How to deal with missing data: Participants with missing HF data were excluded.<br>
   Methods of sensitivity analysis: Performed for different subgroups, including sex, age, race, smoking status, hypertension, diabetes, coronary heart disease, liver disease, serum uric acid, and eGFR.<br>
+
+**Cohort Study** <br>
+  Input Example: [https://doi.org/10.1002/clc.23976](https://doi.org/10.1183/13993003.01257-2018)
+  
+  Patients Inclusion/Exclusion Criteria: Included individuals aged ≥50 who had filled at least three prescriptions for an inhaled anticholinergic medication or a short-acting β-agonist in a 1-year rolling window. Excluded if they had a total follow-up time <1 year.<br>
+  Follow-up Period: Average follow-up time was 5.2 years.<br>
+  Drop-out Rates: Not specifically mentioned.<br>
+  Methods of Adjustment for Confounders: Multivariable Cox regression models adjusted for age, sex, region, income quintile, hospitalizations, physician encounters, COPD hospitalization, year of cohort entry, Charlson  Comorbidity Index score, total number of prescriptions received, oral glucocorticoid use, and statin exposure.<br>
+  Dealing with Missing Data: Not explicitly mentioned, but administrative data sources typically have complete prescription and diagnosis records.<br>
