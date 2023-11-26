@@ -7,6 +7,7 @@ meta-analysis, randomized controlled trials, cross-sectional studies, cohort stu
 Please be careful about the output results when other study designs than these are input.
 
 # Update History
+Nov 26, 2023: Adjusted output items.
 Nov 16, 2023: If an unsupported study design is entered, a warning is displayed.
 
 # Output Format
