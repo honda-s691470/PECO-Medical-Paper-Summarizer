@@ -3,6 +3,7 @@ Friendly clinical medical study summarizer in PECO (Patients, Exposure, Comparis
 [PECO-Medical-Paper-Summarizer](https://chat.openai.com/g/g-3Ylvxx5GH-peco-summarizer)
 
 # Update History
+Nov 29, 2023: Adjusted output of Primary and Secondary outcome.<br>
 Nov 26, 2023: Adjusted output items.<br>
 Nov 16, 2023: If an unsupported study design is entered, a warning is displayed.
 
